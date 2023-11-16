@@ -1,0 +1,12 @@
+main{
+
+text-align: center;
+background-color: rgb(116, 134, 236);
+
+}
+.navbar{
+    background-color: rgb(68, 68, 175);
+}
+.nav-item a{
+    color: aquamarine;
+}
